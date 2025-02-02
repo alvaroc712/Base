@@ -2,8 +2,8 @@
     {
       "id": 1,
       "name": "Alvaro Cozano",
-      "email": "alvarocozano@gmail.com",
-      "password": "123",
+      "email": "",
+      "password": "",
       "copias": [
         {
           "pelicula_id": 2,
