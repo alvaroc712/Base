@@ -1,0 +1,902 @@
+[
+    {
+      "id": 1,
+      "title": "The Last Samurai",
+      "genre": "Action",
+      "director": "Edward Zwick",
+      "year": 2003,
+      "rating": 7.7,
+      "img": "/images/1.png"
+    },
+    {
+      "id": 2,
+      "title": "Parasite",
+      "genre": "Thriller",
+      "director": "Bong Joon-ho",
+      "year": 2019,
+      "rating": 8.6,
+      "img": "/images/2.png"
+    },
+    {
+      "id": 3,
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "director": "Christopher Nolan",
+      "year": 2010,
+      "rating": 8.8,
+      "img": "/images/3.png"
+    },
+    {
+      "id": 4,
+      "title": "Amélie",
+      "genre": "Romance",
+      "director": "Jean-Pierre Jeunet",
+      "year": 2001,
+      "rating": 8.3,
+      "img": "/images/4.png"
+    },
+    {
+      "id": 5,
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "director": "Christopher Nolan",
+      "year": 2008,
+      "rating": 9.0,
+      "img": "/images/5.png"
+    },
+    {
+      "id": 6,
+      "title": "Spirited Away",
+      "genre": "Animation",
+      "director": "Hayao Miyazaki",
+      "year": 2001,
+      "rating": 8.6,
+      "img": "/images/6.png"
+    },
+    {
+      "id": 7,
+      "title": "The Grand Budapest Hotel",
+      "genre": "Comedy",
+      "director": "Wes Anderson",
+      "year": 2014,
+      "rating": 8.1,
+      "img": "/images/7.png"
+    },
+    {
+      "id": 8,
+      "title": "The Revenant",
+      "genre": "Adventure",
+      "director": "Alejandro González Iñárritu",
+      "year": 2015,
+      "rating": 8.0,
+      "img": "/images/8.png"
+    },
+    {
+      "id": 9,
+      "title": "Oldboy",
+      "genre": "Thriller",
+      "director": "Park Chan-wook",
+      "year": 2003,
+      "rating": 8.4,
+      "img": "/images/9.png"
+    },
+    {
+      "id": 10,
+      "title": "The Lives of Others",
+      "genre": "Drama",
+      "director": "Florian Henckel von Donnersmarck",
+      "year": 2006,
+      "rating": 8.4,
+      "img": "/images/10.png"
+    },
+    {
+      "id": 11,
+      "title": "City of God",
+      "genre": "Crime",
+      "director": "Fernando Meirelles",
+      "year": 2002,
+      "rating": 8.6,
+      "img": "/images/11.png"
+    },
+    {
+      "id": 12,
+      "title": "Pan's Labyrinth",
+      "genre": "Fantasy",
+      "director": "Guillermo del Toro",
+      "year": 2006,
+      "rating": 8.2,
+      "img": "/images/12.png"
+    },
+    {
+      "id": 13,
+      "title": "The Intouchables",
+      "genre": "Drama",
+      "director": "Olivier Nakache",
+      "year": 2011,
+      "rating": 8.5,
+      "img": "/images/13.png"
+    },
+    {
+      "id": 14,
+      "title": "The Handmaiden",
+      "genre": "Thriller",
+      "director": "Park Chan-wook",
+      "year": 2016,
+      "rating": 8.1,
+      "img": "/images/14.png"
+    },
+    {
+      "id": 15,
+      "title": "A Separation",
+      "genre": "Drama",
+      "director": "Asghar Farhadi",
+      "year": 2011,
+      "rating": 8.3,
+      "img": "/images/15.png"
+    },
+    {
+      "id": 16,
+      "title": "The Secret in Their Eyes",
+      "genre": "Crime",
+      "director": "Juan José Campanella",
+      "year": 2009,
+      "rating": 8.2,
+      "img": "/images/16.png"
+    },
+    {
+      "id": 17,
+      "title": "The Hunt",
+      "genre": "Drama",
+      "director": "Thomas Vinterberg",
+      "year": 2012,
+      "rating": 8.3,
+      "img": "/images/17.png"
+    },
+    {
+      "id": 18,
+      "title": "The Farewell",
+      "genre": "Comedy",
+      "director": "Lulu Wang",
+      "year": 2019,
+      "rating": 7.6,
+      "img": "/images/18.png"
+    },
+    {
+      "id": 19,
+      "title": "The Lighthouse",
+      "genre": "Horror",
+      "director": "Robert Eggers",
+      "year": 2019,
+      "rating": 7.5,
+      "img": "/images/19.png"
+    },
+    {
+      "id": 20,
+      "title": "Portrait of a Lady on Fire",
+      "genre": "Romance",
+      "director": "Céline Sciamma",
+      "year": 2019,
+      "rating": 8.1,
+      "img": "/images/20.png"
+    },
+    {
+      "id": 21,
+      "title": "The Irishman",
+      "genre": "Crime",
+      "director": "Martin Scorsese",
+      "year": 2019,
+      "rating": 7.8,
+      "img": "/images/21.png"
+    },
+    {
+      "id": 22,
+      "title": "Marriage Story",
+      "genre": "Drama",
+      "director": "Noah Baumbach",
+      "year": 2019,
+      "rating": 7.9,
+      "img": "/images/22.png"
+    },
+    {
+      "id": 23,
+      "title": "Jojo Rabbit",
+      "genre": "Comedy",
+      "director": "Taika Waititi",
+      "year": 2019,
+      "rating": 7.9,
+      "img": "/images/23.png"
+    },
+    {
+      "id": 24,
+      "title": "1917",
+      "genre": "War",
+      "director": "Sam Mendes",
+      "year": 2019,
+      "rating": 8.3,
+      "img": "/images/24.png"
+    },
+    {
+      "id": 25,
+      "title": "Joker",
+      "genre": "Crime",
+      "director": "Todd Phillips",
+      "year": 2019,
+      "rating": 8.4,
+      "img": "/images/25.png"
+    },
+    {
+      "id": 26,
+      "title": "Once Upon a Time in Hollywood",
+      "genre": "Comedy",
+      "director": "Quentin Tarantino",
+      "year": 2019,
+      "rating": 7.6,
+      "img": "/images/26.png"
+    },
+    {
+      "id": 27,
+      "title": "Knives Out",
+      "genre": "Mystery",
+      "director": "Rian Johnson",
+      "year": 2019,
+      "rating": 7.9,
+      "img": "/images/27.png"
+    },
+    {
+      "id": 28,
+      "title": "Little Women",
+      "genre": "Drama",
+      "director": "Greta Gerwig",
+      "year": 2019,
+      "rating": 7.8,
+      "img": "/images/28.png"
+    },
+    {
+      "id": 29,
+      "title": "The Two Popes",
+      "genre": "Biography",
+      "director": "Fernando Meirelles",
+      "year": 2019,
+      "rating": 7.6,
+      "img": "/images/29.png"
+    },
+    {
+      "id": 30,
+      "title": "Ford v Ferrari",
+      "genre": "Action",
+      "director": "James Mangold",
+      "year": 2019,
+      "rating": 8.1,
+      "img": "/images/30.png"
+    },
+    {
+      "id": 31,
+      "title": "The Invisible Man",
+      "genre": "Horror",
+      "director": "Leigh Whannell",
+      "year": 2020,
+      "rating": 7.1,
+      "img": "/images/31.png"
+    },
+    {
+      "id": 32,
+      "title": "Soul",
+      "genre": "Animation",
+      "director": "Pete Docter",
+      "year": 2020,
+      "rating": 8.1,
+      "img": "/images/32.png"
+    },
+    {
+      "id": 33,
+      "title": "Nomadland",
+      "genre": "Drama",
+      "director": "Chloé Zhao",
+      "year": 2020,
+      "rating": 7.4,
+      "img": "/images/33.png"
+    },
+    {
+      "id": 34,
+      "title": "The Trial of the Chicago 7",
+      "genre": "Drama",
+      "director": "Aaron Sorkin",
+      "year": 2020,
+      "rating": 7.8,
+      "img": "/images/34.png"
+    },
+    {
+      "id": 35,
+      "title": "Mank",
+      "genre": "Biography",
+      "director": "David Fincher",
+      "year": 2020,
+      "rating": 6.8,
+      "img": "/images/35.png"
+    },
+    {
+      "id": 36,
+      "title": "Promising Young Woman",
+      "genre": "Crime",
+      "director": "Emerald Fennell",
+      "year": 2020,
+      "rating": 7.5,
+      "img": "/images/36.png"
+    },
+    {
+      "id": 37,
+      "title": "Sound of Metal",
+      "genre": "Drama",
+      "director": "Darius Marder",
+      "year": 2020,
+      "rating": 7.8,
+      "img": "/images/37.png"
+    },
+    {
+      "id": 38,
+      "title": "Minari",
+      "genre": "Drama",
+      "director": "Lee Isaac Chung",
+      "year": 2020,
+      "rating": 7.5,
+      "img": "/images/38.png"
+    },
+    {
+      "id": 39,
+      "title": "The Father",
+      "genre": "Drama",
+      "director": "Florian Zeller",
+      "year": 2020,
+      "rating": 8.3,
+      "img": "/images/39.png"
+    },
+    {
+      "id": 40,
+      "title": "Another Round",
+      "genre": "Comedy",
+      "director": "Thomas Vinterberg",
+      "year": 2020,
+      "rating": 7.8,
+      "img": "/images/40.png"
+    },
+    {
+      "id": 41,
+      "title": "Judas and the Black Messiah",
+      "genre": "Biography",
+      "director": "Shaka King",
+      "year": 2021,
+      "rating": 7.5,
+      "img": "/images/41.png"
+    },
+    {
+      "id": 42,
+      "title": "The Green Knight",
+      "genre": "Fantasy",
+      "director": "David Lowery",
+      "year": 2021,
+      "rating": 6.6,
+      "img": "/images/42.png"
+    },
+    {
+      "id": 43,
+      "title": "Dune",
+      "genre": "Sci-Fi",
+      "director": "Denis Villeneuve",
+      "year": 2021,
+      "rating": 8.1,
+      "img": "/images/43.png"
+    },
+    {
+      "id": 44,
+      "title": "The Power of the Dog",
+      "genre": "Drama",
+      "director": "Jane Campion",
+      "year": 2021,
+      "rating": 7.3,
+      "img": "/images/44.png"
+    },
+    {
+      "id": 45,
+      "title": "Licorice Pizza",
+      "genre": "Comedy",
+      "director": "Paul Thomas Anderson",
+      "year": 2021,
+      "rating": 7.4,
+      "img": "/images/45.png"
+    },
+    {
+      "id": 46,
+      "title": "West Side Story",
+      "genre": "Musical",
+      "director": "Steven Spielberg",
+      "year": 2021,
+      "rating": 7.5,
+      "img": "/images/46.png"
+    },
+    {
+      "id": 47,
+      "title": "Nightmare Alley",
+      "genre": "Thriller",
+      "director": "Guillermo del Toro",
+      "year": 2021,
+      "rating": 7.0,
+      "img": "/images/47.png"
+    },
+    {
+      "id": 48,
+      "title": "Don't Look Up",
+      "genre": "Comedy",
+      "director": "Adam McKay",
+      "year": 2021,
+      "rating": 7.2,
+      "img": "/images/48.png"
+    },
+    {
+      "id": 49,
+      "title": "The French Dispatch",
+      "genre": "Comedy",
+      "director": "Wes Anderson",
+      "year": 2021,
+      "rating": 7.1,
+      "img": "/images/49.png"
+    },
+    {
+      "id": 50,
+      "title": "Spencer",
+      "genre": "Biography",
+      "director": "Pablo Larraín",
+      "year": 2021,
+      "rating": 6.7,
+      "img": "/images/50.png"
+    },
+    {
+      "id": 51,
+      "title": "The Batman",
+      "genre": "Action",
+      "director": "Matt Reeves",
+      "year": 2022,
+      "rating": 7.9,
+      "img": "/images/51.png"
+    },
+    {
+      "id": 52,
+      "title": "Everything Everywhere All at Once",
+      "genre": "Sci-Fi",
+      "director": "Daniel Kwan",
+      "year": 2022,
+      "rating": 8.1,
+      "img": "/images/52.png"
+    },
+    {
+      "id": 53,
+      "title": "Top Gun: Maverick",
+      "genre": "Action",
+      "director": "Joseph Kosinski",
+      "year": 2022,
+      "rating": 8.4,
+      "img": "/images/53.png"
+    },
+    {
+      "id": 54,
+      "title": "The Banshees of Inisherin",
+      "genre": "Comedy",
+      "director": "Martin McDonagh",
+      "year": 2022,
+      "rating": 7.8,
+      "img": "/images/54.png"
+    },
+    {
+      "id": 55,
+      "title": "Elvis",
+      "genre": "Biography",
+      "director": "Baz Luhrmann",
+      "year": 2022,
+      "rating": 7.3,
+      "img": "/images/55.png"
+    },
+    {
+      "id": 56,
+      "title": "The Northman",
+      "genre": "Action",
+      "director": "Robert Eggers",
+      "year": 2022,
+      "rating": 7.1,
+      "img": "/images/56.png"
+    },
+    {
+      "id": 57,
+      "title": "Nope",
+      "genre": "Horror",
+      "director": "Jordan Peele",
+      "year": 2022,
+      "rating": 7.2,
+      "img": "/images/57.png"
+    },
+    {
+      "id": 58,
+      "title": "RRR",
+      "genre": "Action",
+      "director": "S. S. Rajamouli",
+      "year": 2022,
+      "rating": 7.8,
+      "img": "/images/58.png"
+    },
+    {
+      "id": 59,
+      "title": "The Whale",
+      "genre": "Drama",
+      "director": "Darren Aronofsky",
+      "year": 2022,
+      "rating": 7.7,
+      "img": "/images/59.png"
+    },
+    {
+      "id": 60,
+      "title": "Triangle of Sadness",
+      "genre": "Comedy",
+      "director": "Ruben Östlund",
+      "year": 2022,
+      "rating": 7.4,
+      "img": "/images/60.png"
+    },
+    {
+      "id": 61,
+      "title": "Avatar: The Way of Water",
+      "genre": "Sci-Fi",
+      "director": "James Cameron",
+      "year": 2022,
+      "rating": 7.6,
+      "img": "/images/61.png"
+    },
+    {
+      "id": 62,
+      "title": "Black Panther: Wakanda Forever",
+      "genre": "Action",
+      "director": "Ryan Coogler",
+      "year": 2022,
+      "rating": 7.2,
+      "img": "/images/62.png"
+    },
+    {
+      "id": 63,
+      "title": "The Fabelmans",
+      "genre": "Drama",
+      "director": "Steven Spielberg",
+      "year": 2022,
+      "rating": 7.5,
+      "img": "/images/63.png"
+    },
+    {
+      "id": 64,
+      "title": "Tár",
+      "genre": "Drama",
+      "director": "Todd Field",
+      "year": 2022,
+      "rating": 7.4,
+      "img": "/images/64.png"
+    },
+    {
+      "id": 65,
+      "title": "Women Talking",
+      "genre": "Drama",
+      "director": "Sarah Polley",
+      "year": 2022,
+      "rating": 7.0,
+      "img": "/images/65.png"
+    },
+    {
+      "id": 66,
+      "title": "All Quiet on the Western Front",
+      "genre": "War",
+      "director": "Edward Berger",
+      "year": 2022,
+      "rating": 7.8,
+      "img": "/images/66.png"
+    },
+    {
+      "id": 67,
+      "title": "Glass Onion: A Knives Out Mystery",
+      "genre": "Mystery",
+      "director": "Rian Johnson",
+      "year": 2022,
+      "rating": 7.2,
+      "img": "/images/67.png"
+    },
+    {
+      "id": 68,
+      "title": "The Menu",
+      "genre": "Horror",
+      "director": "Mark Mylod",
+      "year": 2022,
+      "rating": 7.2,
+      "img": "/images/68.png"
+    },
+    {
+      "id": 69,
+      "title": "Babylon",
+      "genre": "Drama",
+      "director": "Damien Chazelle",
+      "year": 2022,
+      "rating": 7.1,
+      "img": "/images/69.png"
+    },
+    {
+      "id": 70,
+      "title": "Puss in Boots: The Last Wish",
+      "genre": "Animation",
+      "director": "Joel Crawford",
+      "year": 2022,
+      "rating": 7.9,
+      "img": "/images/70.png"
+    },
+    {
+      "id": 71,
+      "title": "Creed III",
+      "genre": "Action",
+      "director": "Michael B. Jordan",
+      "year": 2023,
+      "rating": 7.2,
+      "img": "/images/71.png"
+    },
+    {
+      "id": 72,
+      "title": "John Wick: Chapter 4",
+      "genre": "Action",
+      "director": "Chad Stahelski",
+      "year": 2023,
+      "rating": 8.0,
+      "img": "/images/72.png"
+    },
+    {
+      "id": 73,
+      "title": "Oppenheimer",
+      "genre": "Biography",
+      "director": "Christopher Nolan",
+      "year": 2023,
+      "rating": 8.5,
+      "img": "/images/73.png"
+    },
+    {
+      "id": 74,
+      "title": "Barbie",
+      "genre": "Comedy",
+      "director": "Greta Gerwig",
+      "year": 2023,
+      "rating": 7.3,
+      "img": "/images/74.png"
+    },
+    {
+      "id": 75,
+      "title": "Killers of the Flower Moon",
+      "genre": "Crime",
+      "director": "Martin Scorsese",
+      "year": 2023,
+      "rating": 7.8,
+      "img": "/images/75.png"
+    },
+    {
+      "id": 76,
+      "title": "The Super Mario Bros. Movie",
+      "genre": "Animation",
+      "director": "Aaron Horvath",
+      "year": 2023,
+      "rating": 7.0,
+      "img": "/images/76.png"
+    },
+    {
+      "id": 77,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "genre": "Action",
+      "director": "James Gunn",
+      "year": 2023,
+      "rating": 7.9,
+      "img": "/images/77.png"
+    },
+    {
+      "id": 78,
+      "title": "Spider-Man: Across the Spider-Verse",
+      "genre": "Animation",
+      "director": "Joaquim Dos Santos",
+      "year": 2023,
+      "rating": 8.7,
+      "img": "/images/78.png"
+    },
+    {
+      "id": 79,
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "genre": "Action",
+      "director": "Christopher McQuarrie",
+      "year": 2023,
+      "rating": 7.8,
+      "img": "/images/79.png"
+    },
+    {
+      "id": 80,
+      "title": "The Little Mermaid",
+      "genre": "Adventure",
+      "director": "Rob Marshall",
+      "year": 2023,
+      "rating": 7.2,
+      "img": "/images/80.png"
+    },
+    {
+      "id": 81,
+      "title": "Elemental",
+      "genre": "Animation",
+      "director": "Peter Sohn",
+      "year": 2023,
+      "rating": 7.0,
+      "img": "/images/81.png"
+    },
+    {
+      "id": 82,
+      "title": "Indiana Jones and the Dial of Destiny",
+      "genre": "Adventure",
+      "director": "James Mangold",
+      "year": 2023,
+      "rating": 6.7,
+      "img": "/images/82.png"
+    },
+    {
+      "id": 83,
+      "title": "The Flash",
+      "genre": "Action",
+      "director": "Andy Muschietti",
+      "year": 2023,
+      "rating": 6.5,
+      "img": "/images/83.png"
+    },
+    {
+      "id": 84,
+      "title": "Transformers: Rise of the Beasts",
+      "genre": "Action",
+      "director": "Steven Caple Jr.",
+      "year": 2023,
+      "rating": 6.1,
+      "img": "/images/84.png"
+    },
+    {
+      "id": 85,
+      "title": "Fast X",
+      "genre": "Action",
+      "director": "Louis Leterrier",
+      "year": 2023,
+      "rating": 5.9,
+      "img": "/images/85.png"
+    },
+    {
+      "id": 86,
+      "title": "The Marvels",
+      "genre": "Action",
+      "director": "Nia DaCosta",
+      "year": 2023,
+      "rating": 6.2,
+      "img": "/images/86.png"
+    },
+    {
+      "id": 87,
+      "title": "Wonka",
+      "genre": "Adventure",
+      "director": "Paul King",
+      "year": 2023,
+      "rating": 7.1,
+      "img": "/images/87.png"
+    },
+    {
+      "id": 88,
+      "title": "Aquaman and the Lost Kingdom",
+      "genre": "Action",
+      "director": "James Wan",
+      "year": 2023,
+      "rating": 6.0,
+      "img": "/images/88.png"
+    },
+    {
+      "id": 89,
+      "title": "Napoleon",
+      "genre": "Biography",
+      "director": "Ridley Scott",
+      "year": 2023,
+      "rating": 6.4,
+      "img": "/images/89.png"
+    },
+    {
+      "id": 90,
+      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "genre": "Action",
+      "director": "Francis Lawrence",
+      "year": 2023,
+      "rating": 7.2,
+      "img": "/images/90.png"
+    },
+    {
+      "id": 91,
+      "title": "The Creator",
+      "genre": "Sci-Fi",
+      "director": "Gareth Edwards",
+      "year": 2023,
+      "rating": 7.0,
+      "img": "/images/91.png"
+    },
+    {
+      "id": 92,
+      "title": "Dungeons & Dragons: Honor Among Thieves",
+      "genre": "Adventure",
+      "director": "John Francis Daley",
+      "year": 2023,
+      "rating": 7.3,
+      "img": "/images/92.png"
+    },
+    {
+      "id": 93,
+      "title": "The Nun II",
+      "genre": "Horror",
+      "director": "Michael Chaves",
+      "year": 2023,
+      "rating": 5.7,
+      "img": "/images/93.png"
+    },
+    {
+      "id": 94,
+      "title": "Saw X",
+      "genre": "Horror",
+      "director": "Kevin Greutert",
+      "year": 2023,
+      "rating": 6.2,
+      "img": "/images/94.png"
+    },
+    {
+      "id": 95,
+      "title": "The Exorcist: Believer",
+      "genre": "Horror",
+      "director": "David Gordon Green",
+      "year": 2023,
+      "rating": 5.4,
+      "img": "/images/95.png"
+    },
+    {
+      "id": 96,
+      "title": "Five Nights at Freddy's",
+      "genre": "Horror",
+      "director": "Emma Tammi",
+      "year": 2023,
+      "rating": 6.0,
+      "img": "/images/96.png"
+    },
+    {
+      "id": 97,
+      "title": "The Equalizer 3",
+      "genre": "Action",
+      "director": "Antoine Fuqua",
+      "year": 2023,
+      "rating": 6.7,
+      "img": "/images/97.png"
+    },
+    {
+      "id": 98,
+      "title": "Expend4bles",
+      "genre": "Action",
+      "director": "Scott Waugh",
+      "year": 2023,
+      "rating": 4.8,
+      "img": "/images/98.png"
+    },
+    {
+      "id": 99,
+      "title": "Kraven the Hunter",
+      "genre": "Action",
+      "director": "J. C. Chandor",
+      "year": 2023,
+      "rating": 5.9,
+      "img": "/images/99.png"
+    },
+    {
+      "id": 100,
+      "title": "The Killer",
+      "genre": "Action",
+      "director": "David Fincher",
+      "year": 2023,
+      "rating": 7.0,
+      "img": "/images/100.png"
+    }
+]

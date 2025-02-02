@@ -1,0 +1,182 @@
+[
+    {
+      "id": 1,
+      "name": "Alvaro Cozano",
+      "email": "alvarocozano@gmail.com",
+      "password": "123",
+      "copias": [
+        {
+          "pelicula_id": 2,
+          "estado": "Bueno",
+          "formato": "VHS"
+        },
+        {
+          "pelicula_id": 8,
+          "estado": "Excelente",
+          "formato": "Digital"
+        },
+        {
+          "pelicula_id": 10,
+          "estado": "Bueno",
+          "formato": "DVD"
+        },
+        {
+          "pelicula_id": 11,
+          "estado": "Regular",
+          "formato": "Digital"
+        },
+        {
+          "pelicula_id": 16,
+          "estado": "Bueno",
+          "formato": "DVD"
+        },
+        {
+          "pelicula_id": 19,
+          "estado": "Bueno",
+          "formato": "VHS"
+        },
+        {
+          "pelicula_id": 22,
+          "estado": "Excelente",
+          "formato": "Digital"
+        },
+        {
+          "pelicula_id": 23,
+          "estado": "Bueno",
+          "formato": "DVD"
+        },
+        {
+          "pelicula_id": 31,
+          "estado": "Regular",
+          "formato": "Digital"
+        },
+        {
+          "pelicula_id": 38,
+          "estado": "Bueno",
+          "formato": "DVD"
+        },
+        {
+          "pelicula_id": 39,
+          "estado": "Bueno",
+          "formato": "VHS"
+        },
+        {
+          "pelicula_id": 43,
+          "estado": "Excelente",
+          "formato": "Digital"
+        },
+        {
+          "pelicula_id": 45,
+          "estado": "Bueno",
+          "formato": "DVD"
+        },
+        {
+          "pelicula_id": 52,
+          "estado": "Regular",
+          "formato": "Digital"
+        },
+        {
+          "pelicula_id": 53,
+          "estado": "Bueno",
+          "formato": "DVD"
+        },
+        {
+          "pelicula_id": 54,
+          "estado": "Bueno",
+          "formato": "VHS"
+        },
+        {
+          "pelicula_id": 69,
+          "estado": "Excelente",
+          "formato": "Digital"
+        },
+        {
+          "pelicula_id": 70,
+          "estado": "Bueno",
+          "formato": "DVD"
+        },
+        {
+          "pelicula_id": 82,
+          "estado": "Regular",
+          "formato": "Digital"
+        },
+        {
+          "pelicula_id": 88,
+          "estado": "Bueno",
+          "formato": "DVD"
+        },
+        {
+          "pelicula_id": 90,
+          "estado": "Bueno",
+          "formato": "DVD"
+        },
+        {
+          "pelicula_id": 92,
+          "estado": "Bueno",
+          "formato": "DVD"
+        },
+        {
+          "pelicula_id": 96,
+          "estado": "Bueno",
+          "formato": "DVD"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "María García",
+      "email": "maria.garcia@gmail.com",
+      "password": "1234",
+      "copias": [
+        {
+          "pelicula_id": 2,
+          "estado": "Excelente",
+          "formato": "Digital"
+        },
+        {
+          "pelicula_id": 5,
+          "estado": "Bueno",
+          "formato": "DVD"
+        },
+        {
+          "pelicula_id": 7,
+          "estado": "Regular",
+          "formato": "VHS"
+        },
+        {
+          "pelicula_id": 13,
+          "estado": "Excelente",
+          "formato": "Digital"
+        },
+        {
+          "pelicula_id": 56,
+          "estado": "Excelente",
+          "formato": "Digital"
+        },
+        {
+          "pelicula_id": 76,
+          "estado": "Bueno",
+          "formato": "DVD"
+        },
+        {
+          "pelicula_id": 95,
+          "estado": "Regular",
+          "formato": "VHS"
+        },
+        {
+          "pelicula_id": 100,
+          "estado": "Excelente",
+          "formato": "Digital"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Carlos López",
+      "email": "carlos.lopez@gmail.com",
+      "password": "12345",
+      "copias": [
+      ]
+    }
+  ]
+  

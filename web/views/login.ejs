@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=7">
+    <meta name="robots" content="index, nofollow">
+    <meta name="author" content="">
+
+    <title>MyFilmList - <%= head_title %></title>
+
+    <link rel="shortcut icon" href="images/logo.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="stylesheets/style.css">
+</head>
+
+<body>
+
+    <header id="top">
+        <nav class="menu">
+            <ul>
+                <li><img src="/images/logo.png" alt=""></li>
+                <li><a href="/">MyFilmList</a></li>
+            </ul>
+            
+            <ul>
+                <li><a href="">Contacto</a></li>
+                <li><a href="/login">Cerrar Sesión</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main id="login">
+
+        <form method="post">
+            <h1>Login</h1>
+            <label for="email">Correo electrónico</label>
+            <input type="email" id="email" name="email">
+            <label for="password">Password</label>
+            <input type="password" id="password" name="password">
+            <button class="button">Acceder</button>
+        </form>
+        
+    </main>
+
+    <footer>
+        <div class="inner">
+            <div>
+                <p>
+                    <a href=""><img class="social-icon" src="/images/instagram.png" alt=""></a>
+                    <a href=""><img class="social-icon" src="/images/linkedin.png" alt=""></a>
+                    <a href=""><img class="social-icon" src="/images/whatsapp.png" alt=""></a>
+                </p>
+            </div>
+        </div>
+        <div class="foot">
+            Alvaro Cozano Pérez | 2º DAW
+        </div>
+    </footer>
+
+    <script src="/javascripts/script.js"></script>
+    
+</body>
+</html>
